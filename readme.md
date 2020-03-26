@@ -13,3 +13,4 @@
     * integration test if we have arduino-dependent function, we need to download it to board
     * unit test for ISO C++ function, we can run it in desktop
 * Run it with `pio test -e native -d test/unit_test` if we want to run native environtment and test script in unit_test folder
+* if `.vscode/c_cpp_properties.json` is not generated, please reload the window
